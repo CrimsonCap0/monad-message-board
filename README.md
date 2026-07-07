@@ -20,9 +20,9 @@
 - 部署网络：Monad Testnet
 - 钱包工具：MetaMask
 - 课程钱包地址：`0xCB1004C940C0267dc9FEB41B0c85A60E2D5f5A24`
-- 合约地址：`待补充`
-- 部署交易 hash：`待补充`
-- 合约交互交易 hash：`待补充`
+- 合约地址：`0x4400a1775702566A905a84e5CC235E1ce9Bd7cc9`
+- 部署交易 hash：`0x55641124cb8fb508c2dc22955e96d4b5f144640fb5dce76ec30c2f2013ad5267`
+- 合约交互交易 hash：`0xc2f837368d7beb9bf4272dce7a5b6f4cb81b4657b7e96878af11c1e33751854f`
 - 区块浏览器：`https://testnet.monadvision.com`
 
 ## 合约源码
